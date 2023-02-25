@@ -12,6 +12,7 @@ I'm a Backend Developer 💻, PES 2021 😎 and love coffee ☕
 
 <h2> 🔥Use of this script: <h2/>
 <h4>Using this script, you can sort the files that have the same extension in their respective folders .
+<br>
 For example: we have 100 files with different extensions, by running this script, all the files will be placed in the folder related to them based on the extensions they have (Python files in the Python folder - Excel files in the Excel folder - PD files F inside the PDF folder and...)<h4/>
 <hr><br>
 I love to learn different things and I try to improve my skills every day 
