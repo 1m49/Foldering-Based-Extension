@@ -10,10 +10,9 @@ Hi there, I'm 1m49 👋
 I'm a Backend Developer 💻, PES 2021 😎 and love coffee ☕ 
 </h2> 
 
-<h2> 🔥Use of this script: <h2>
-<h4>Using this script, you can sort the files that have the same extension in their respective folders<h4>
-
-
+<h2> 🔥Use of this script: <h2/>
+<h4>Using this script, you can sort the files that have the same extension in their respective folders<h4/>
+<hr><br>
 I love to learn different things and I try to improve my skills every day 
 
 ### 🤝 Connect with me:
