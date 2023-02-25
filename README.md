@@ -15,7 +15,7 @@ I love to learn different things and I try to improve my skills every day
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/imanakbari/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="iman akbari | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/imanakbari.7200"><img align="left" src="https://raw.githubusercontent.com/imanakbari.7200/imanakbari.7200/main/images/instagram.svg" alt="iman akbari | Instagram" width="21px"/></a>
+<a href="https://instagram.com/imanakbari.7200"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="iman akbari | Instagram" width="21px"/></a>
 </br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
@@ -49,4 +49,4 @@ I love to learn different things and I try to improve my skills every day
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1m49&layout=compact)](https://github.com/1m49)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=1m49.1m49)](https://www.yushi.dev/)
+<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=1m49.1m49)](https://www.yushi.dev/) -->
