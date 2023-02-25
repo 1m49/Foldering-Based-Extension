@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm 1m49 👋'
+Hi there, I'm 1m49 👋
 </h3>
 
 <h2 align="center">
