@@ -14,11 +14,13 @@ I love to learn different things and I try to improve my skills every day
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/imanakbari/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="iman akbari | LinkedIn" width="21px"/></a>
-<a href="https://instagram.com/imanakbari.7200"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="iman akbari | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/imanakbari/"><img align="left" src="https://user-images.githubusercontent.com/89096381/221364767-83699e75-4ab8-4dab-8063-dd71ced7ebe6.png
+)" alt="iman akbari | LinkedIn" width="28px"/></a>
 
+<a href="https://instagram.com/imanakbari.7200"><img align="left" src="https://user-images.githubusercontent.com/89096381/221364611-7c9c565a-c0c3-4775-9108-971728477285.png" alt="iman akbari | Instagram" width="28px"/></a>
 
-<a href="https://instagram.com/imanakbari.7200"><img align="left" src="https://user-images.githubusercontent.com/89096381/221364514-bcd1f538-8e1a-4265-9da3-30dae5551acb.png" alt="iman akbari | Instagram" width="21px"/></a>
+<a href="https://instagram.com/imanakbari.7200"><img align="left" src="https://user-images.githubusercontent.com/89096381/221364514-bcd1f538-8e1a-4265-9da3-30dae5551acb.png" alt="iman akbari | Instagram" width="28px"/></a>
+
 
 </br>
 
