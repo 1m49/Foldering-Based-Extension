@@ -31,14 +31,14 @@ I love to learn different things and I try to improve my skills every day
 
 ## 🌱 I'm currently learning
 
-- My Database Consepts and Query
+- My Database Consepts and Query skill
 - My Linux skill
 - My Docker skill
 - My DRF skill  
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=61DAFB)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 
