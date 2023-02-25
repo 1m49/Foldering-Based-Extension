@@ -41,7 +41,6 @@ I love to learn different things and I try to improve my skills every day
 
 </br>
 
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 
 ## 📈 GitHub Stats 
