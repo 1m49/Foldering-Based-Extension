@@ -16,6 +16,10 @@ I love to learn different things and I try to improve my skills every day
 
 <a href="https://www.linkedin.com/in/imanakbari/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="iman akbari | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/imanakbari.7200"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="iman akbari | Instagram" width="21px"/></a>
+
+
+<a href="https://instagram.com/imanakbari.7200"><img align="left" src="https://user-images.githubusercontent.com/89096381/221364514-bcd1f538-8e1a-4265-9da3-30dae5551acb.png" alt="iman akbari | Instagram" width="21px"/></a>
+
 </br>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
